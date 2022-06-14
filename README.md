@@ -1,5 +1,5 @@
-- Hello, I’m Daren
-- I'm begginer at C++ coding, wish to learn more and getting better
+- Hello, I’m Danil Borisov
+- 
 - 
 
 <!---
